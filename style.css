@@ -1,0 +1,46 @@
+.scheme {
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	grid-template-rows: 1fr 1fr 1fr;
+	grid-gap: 5px;
+	padding: 0;
+}
+.scheme li {
+	background: #efd;
+	list-style: none;
+	padding: 10px;
+}
+
+.scheme li:nth-child(9n+1) {
+	background: #fde
+}
+
+.schemes {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	grid-template-rows: 1fr 1fr;
+	grid-gap: 5px;
+}
+
+table {
+	background: #ccd;
+}
+
+thead td {
+	background: #cdc;
+	text-align: center;
+}
+
+.title {
+	background: #ffe;
+}
+
+h2 {
+	margin: 0;
+}
+
+.for-tense {
+	text-align: center;
+	background: #def;
+	padding: 15px;
+}
