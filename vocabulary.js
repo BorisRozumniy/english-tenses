@@ -37,7 +37,7 @@ let pronouns = [
 ]
 let irregularVerbs = [
 	//test word START
-	{
+	/*{
 		Infinitive: "traffic",
 		PastSimple:	"trafficed",
 		PastParticiple:"trafficed",
@@ -48,7 +48,7 @@ let irregularVerbs = [
 		PastSimple:	"lied",
 		PastParticiple:"lied",
 		Translation:	"лежать"
-	},
+	},*/
 	// test word END
 	{
 		Infinitive: "be",
